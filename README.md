@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="./styles.css">
 <h1 align="center">Hi 👋, I'm Anh Truong Ngo</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
