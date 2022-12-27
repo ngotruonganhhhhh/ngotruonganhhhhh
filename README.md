@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anh Truong Ngo</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcloudify.vn%2Fcode-la-gi%2F&psig=AOvVaw1HvQEbHT7WC-8T5b16nZ-T&ust=1672254798094000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjIst7AmvwCFQAAAAAdAAAAABAD" alt="code image" />
+
 <h2 align="left">Knowledge Base:</h2>
 <h3 align="left">Programming languages:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> Javascript </a>
