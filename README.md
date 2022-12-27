@@ -20,3 +20,5 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngotruonganhhhhh&show_icons=true&locale=en&layout=compact" alt="most-use" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ngotruonganhhhhh&show_icons=true&locale=en" alt="stats" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngotruonganhhhhh&" alt="streak-stats" /></p>
+
+![Snake animation](https://github.com/{{ngotruonganhhhhh}}/{{ngotruonganhhhhh}}/blob/output/github-contribution-grid-snake.svg)
