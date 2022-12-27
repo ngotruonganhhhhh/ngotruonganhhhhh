@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anh Truong Ngo</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcloudify.vn%2Fcode-la-gi%2F&psig=AOvVaw1HvQEbHT7WC-8T5b16nZ-T&ust=1672254798094000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjIst7AmvwCFQAAAAAdAAAAABAD" alt="code image" />
+<div align="center">
+  <img src="https://media.tenor.com/a7L5RoMg88IAAAAM/cat-typing.gif" width='300' alt="code image" >
+</div>
 
 <h2 align="left">Knowledge Base:</h2>
 <h3 align="left">Programming languages:</h3>
